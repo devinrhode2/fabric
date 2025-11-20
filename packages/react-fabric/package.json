@@ -133,6 +133,10 @@
     "@types/react-reconciler": "catalog:",
     "@types/ws": "^8.18.1"
   },
+	"peerDependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
   "engines": {
     "node": ">=20"
   },
